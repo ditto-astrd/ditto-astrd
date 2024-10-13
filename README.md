@@ -1,4 +1,5 @@
-# Ditto in Pangyu 👩🏻‍💻
+# Ditto in Pangyo 👩🏻‍💻
+- Working in Pangyo as a backend developer
 
 ## Programming
 
