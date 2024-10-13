@@ -7,7 +7,7 @@ import Parser from "rss-parser";
  */
 let text = `# Hi there 👋
 
-## 티스토리와 연동된 Github✍🏼
+## Tistroy <-> Github✍🏼
 
 ## 언어
 
