@@ -5,7 +5,8 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# Ditto in Pangyu 👩🏻‍💻
+let text = `# Ditto in Pangyo 👩🏻‍💻
+- Working in Pangyo as a backend developer
 
 ## Programming
 
