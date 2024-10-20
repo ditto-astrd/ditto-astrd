@@ -1,17 +1,11 @@
 # Ditto in Pangyo 👩🏻‍💻
 - Working in Pangyo as a backend developer
-- Practicing a '1 commit a day' movement by integrating my blog with my GitHub repository
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ditto-astrd&show_icons=true&theme=radical)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fditto-astrd%2Fhit-counter&count_bg=%2369E1C4&title_bg=%23E1E1E1&icon=badoo.svg&icon_color=%23D75E5E&title=%E2%9D%97%EF%B8%8F&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Programming
 
 <p>
   <img alt="" src= "https://img.shields.io/badge/Java-0398fc?style=flat-square&logo=Java&logoColor=white"/> 
   <img alt="" src= "https://img.shields.io/badge/Spring-9ae66e?style=flat-square&logo=Spring&logoColor=white"/>
-  <img alt="" src= "https://img.shields.io/badge/MySQL-dbdbdb?style=flat-square&logo=MYSQL&logoColor=orange"/>
 </p>
 
 ## 📕 Latest Blog Posts
