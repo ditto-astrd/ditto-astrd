@@ -8,8 +8,7 @@ import Parser from "rss-parser";
 let text = `# 판교의 메타몽 👩🏻‍💻 (Ditto in Pangyo)
 - 판교에서 백엔드 개발자로 근무중 (Working in Pangyo as a backend developer)
 - 블로그와 깃헙을 연동하여 1일 1커밋 운동 실천중 (Practicing a '1 commit a day' movement by integrating my blog with my GitHub repository)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ditto-astrd&show_icons=true&theme=radical)
+- 주로 TIL, 개발 서적, 알고리즘 풀이를 업로드 (Usually uploading TIL, developer books and algorithm problem solvings)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fditto-astrd%2Fhit-counter&count_bg=%235BBAA3&title_bg=%23E1E1E1&icon=badoo.svg&icon_color=%23D75E5E&title=%E2%9D%97%EF%B8%8F&edge_flat=false)](https://hits.seeyoufarm.com)
 
